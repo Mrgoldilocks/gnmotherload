@@ -6,12 +6,12 @@
   </head>
   <link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/mrgoldilocks/gnmotherload@main/madalin-stunt-cars-3/img/index.jpg" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mrgoldilocks/gnmotherload@main/madalin-stunt-cars-3/TemplateData/style.css" />
-  <script src="https://cdn.jsdelivr.net/gh/mrgoldilocks/gnmotherload@main/madalin-stunt-cars-3/TemplateData/UnityProgress.js"></script>
-  <script src="https://cdn.jsdelivr.net/gh/mrgoldilocks/gnmotherload@main/madalin-stunt-cars-3/js/unityloader35.js"></script>
-  <script src="https://cdn.jsdelivr.net/gh/mrgoldilocks/gnmotherload@main/madalin-stunt-cars-3/js/main.js"></script>
+  <script src="/TemplateData/UnityProgress.js"></script>
+  <script src="/js/unityloader35.js"></script>
+  <script src="/js/main.js"></script>
   <body>
     <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "https://cdn.jsdelivr.net/gh/mrgoldilocks/gnmotherload@main/madalin-stunt-cars-3/game.json", {
+      var gameInstance = UnityLoader.instantiate("gameContainer", "/game.json", {
         onProgress: UnityProgress,
         Module: {
           onRuntimeInitialized: function () {
