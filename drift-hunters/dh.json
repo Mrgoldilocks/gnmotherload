@@ -1,6 +1,6 @@
 {
   "TOTAL_MEMORY": 1073741824,
-  "dataUrl": "https://ubg100.bitbucket.io/games/dh/dh.data.unityweb",
+  "dataUrl": "https://cdn.jsdelivr.net/gh/Mrgoldilocks/gnmotherload@main/drift-hunters/ItchIO.data.unityweb",
   "asmCodeUrl": "https://cdn.jsdelivr.net/gh/Mrgoldilocks/gnmotherload@main/drift-hunters/dh.asm.code.unityweb",
   "asmMemoryUrl": "https://cdn.jsdelivr.net/gh/Mrgoldilocks/gnmotherload@main/drift-hunters/dh.asm.memory.unityweb",
   "asmFrameworkUrl": "https://cdn.jsdelivr.net/gh/Mrgoldilocks/gnmotherload@main/drift-hunters/dh.asm.framework.unityweb",
